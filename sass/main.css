@@ -40,4 +40,8 @@ body {
   background-repeat: no-repeat;
   min-height: 100vh;
 }
+
+.container {
+  width: 120rem;
+}
 /*# sourceMappingURL=main.css.map */
